@@ -5,6 +5,5 @@
  |  _  | |  | | My Email: haider@haider.gq
  |_| |_|_|  |_| My Website: haider.gq
 #+end_src
-My Name is Haider Mirza and I am a 3D artist and Programmer.
-All my projects are hosted on github and are free and open-source.
-Most of my projects are licensed under GPL V3.
+My Name is Haider Mirza and I am a 3D artist and Programmer. \\
+All my projects are hosted on [[https://github.com/][Github]] and are free and open-source (FOSS) and usually are licensed under GPL V3.
