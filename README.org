@@ -1,4 +1,3 @@
-* Who am I?
 #+begin_src
   _   _ __  ___
  | | | |  \/  | My Github: https://github.com/Haider-Mirza
