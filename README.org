@@ -6,4 +6,4 @@
  |_| |_|_|  |_| My Website: haider.gq
 #+end_src
 My Name is Haider Mirza and I am a 3D artist and Programmer. \\
-All my projects are hosted on [[https://github.com/][Github]] and are [[https://en.wikipedia.org/wiki/Free_software][free]] and [[https://en.wikipedia.org/wiki/Open_source][open-source]] (FOSS) and usually are licensed under GPL V3.
+Most of my projects are hosted on [[https://github.com/][Github]] and are [[https://en.wikipedia.org/wiki/Free_software][free]] and [[https://en.wikipedia.org/wiki/Open_source][open-source]] (FOSS) and usually are licensed under GPL V3.
