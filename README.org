@@ -1,9 +1,9 @@
 #+begin_src
   _   _ __  ___
- | | | |  \/  | My Github: https://github.com/Haider-Mirza
- | |_| | |\/| | My IRC: haider in Libera.Chat
- |  _  | |  | | My Email: haider@haider.gq
- |_| |_|_|  |_| My Website: haider.gq
+ | | | |  \/  | My Website: haider.gq
+ | |_| | |\/| | My Email: haider@haider.gq
+ |  _  | |  | | My Github: https://github.com/Haider-Mirza
+ |_| |_|_|  |_| My IRC username: haider in Libera.Chat
 #+end_src
 My Name is Haider Mirza and I am a 3D artist and Programmer. \\
 Most of my projects are hosted on [[https://github.com/][Github]] and are [[https://en.wikipedia.org/wiki/Free_software][free]] and [[https://en.wikipedia.org/wiki/Open_source][open-source]] (FOSS) and usually are licensed under GPL V3.
